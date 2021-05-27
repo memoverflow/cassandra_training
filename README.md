@@ -1,2 +1,2 @@
-# cassandra_training
+# cassandra training
 Share my child's study and play experience
